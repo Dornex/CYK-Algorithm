@@ -1,0 +1,10 @@
+baaba
+4
+S A B C
+2
+a b
+4
+S -> AB | BC
+A -> BA | a
+B -> CC | b
+C -> AB | a
